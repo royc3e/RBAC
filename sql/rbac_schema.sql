@@ -44,6 +44,75 @@ CREATE TABLE users (
     FOREIGN KEY (customer_id) REFERENCES customers(customer_id)
 );
 
+-- Projects table
+CREATE TABLE projects (
+    project_id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(255) NOT NULL,
+    description TEXT,
+    created_by INT,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (created_by) REFERENCES users(user_id)
+);
+
+-- Tasks table
+CREATE TABLE tasks (
+    task_id INT AUTO_INCREMENT PRIMARY KEY,
+    project_id INT,
+    title VARCHAR(255) NOT NULL,
+    description TEXT,
+    assigned_to INT,
+    created_by INT,
+    status ENUM('Pending', 'In Progress', 'Completed') DEFAULT 'Pending',
+    due_date DATE,
+    priority ENUM('Low','Medium','High') DEFAULT 'Medium',
+    tags VARCHAR(255) DEFAULT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (project_id) REFERENCES projects(project_id),
+    FOREIGN KEY (assigned_to) REFERENCES users(user_id),
+    FOREIGN KEY (created_by) REFERENCES users(user_id)
+);
+
+-- Comments table (threaded)
+CREATE TABLE comments (
+    comment_id INT AUTO_INCREMENT PRIMARY KEY,
+    task_id INT,
+    user_id INT,
+    comment TEXT,
+    parent_id INT DEFAULT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (task_id) REFERENCES tasks(task_id),
+    FOREIGN KEY (user_id) REFERENCES users(user_id),
+    FOREIGN KEY (parent_id) REFERENCES comments(comment_id)
+);
+
+-- Task Assignees table (many-to-many)
+CREATE TABLE task_assignees (
+    task_id INT,
+    user_id INT,
+    PRIMARY KEY (task_id, user_id),
+    FOREIGN KEY (task_id) REFERENCES tasks(task_id),
+    FOREIGN KEY (user_id) REFERENCES users(user_id)
+);
+
+-- Task Watchers table
+CREATE TABLE task_watchers (
+    task_id INT,
+    user_id INT,
+    PRIMARY KEY (task_id, user_id),
+    FOREIGN KEY (task_id) REFERENCES tasks(task_id),
+    FOREIGN KEY (user_id) REFERENCES users(user_id)
+);
+
+-- Activity Logs table
+CREATE TABLE activity_logs (
+    log_id INT AUTO_INCREMENT PRIMARY KEY,
+    user_id INT,
+    action VARCHAR(255),
+    details TEXT,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (user_id) REFERENCES users(user_id)
+);
+
 -- Insert default roles
 INSERT INTO roles (role_name) VALUES
 ('Super Admin'),

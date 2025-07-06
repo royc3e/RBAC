@@ -1,0 +1,171 @@
+[2025-06-26 18:31:22] PHP Error [2] Undefined array key "user_id" in C:\xampp\htdocs\RBAC\public\projects.php on line 275
+[2025-06-26 18:31:22] PHP Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\public\projects.php on line 275
+[2025-06-26 18:31:22] PHP Error [2] Undefined array key "user_id" in C:\xampp\htdocs\RBAC\public\projects.php on line 285
+[2025-06-26 18:31:22] PHP Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\public\projects.php on line 285
+[2025-06-26 18:31:22] PHP Error [2] Undefined array key "user_id" in C:\xampp\htdocs\RBAC\public\projects.php on line 306
+[2025-06-26 18:33:45] PHP Error [2] Undefined array key "user_id" in C:\xampp\htdocs\RBAC\public\projects.php on line 275
+[2025-06-26 18:33:45] PHP Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\public\projects.php on line 275
+[2025-06-26 18:33:45] PHP Error [2] Undefined array key "user_id" in C:\xampp\htdocs\RBAC\public\projects.php on line 285
+[2025-06-26 18:33:45] PHP Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\public\projects.php on line 285
+[2025-06-26 18:33:45] PHP Error [2] Undefined array key "user_id" in C:\xampp\htdocs\RBAC\public\projects.php on line 306
+[2025-06-26 18:38:04] PHP Error [2] Undefined array key "user_id" in C:\xampp\htdocs\RBAC\public\projects.php on line 306
+[2025-06-26 18:41:13] PHP Error [2] Undefined array key "user_id" in C:\xampp\htdocs\RBAC\public\projects.php on line 306
+[2025-06-26 18:41:14] PHP Error [2] Undefined array key "user_id" in C:\xampp\htdocs\RBAC\public\projects.php on line 306
+[2025-06-26 18:44:08] PHP Error [2] require_once(../includes/auth.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\RBAC\public\projects.php on line 3
+[2025-06-27 12:33:43] Uncaught Exception: Host 'localhost' is not allowed to connect to this MariaDB server in C:\xampp\htdocs\RBAC\config\db.php on line 7
+[2025-06-27 12:33:45] Uncaught Exception: Host 'localhost' is not allowed to connect to this MariaDB server in C:\xampp\htdocs\RBAC\config\db.php on line 7
+[2025-06-27 12:33:46] Uncaught Exception: Host 'localhost' is not allowed to connect to this MariaDB server in C:\xampp\htdocs\RBAC\config\db.php on line 7
+[2025-06-27 12:33:47] Uncaught Exception: Host 'localhost' is not allowed to connect to this MariaDB server in C:\xampp\htdocs\RBAC\config\db.php on line 7
+[2025-06-27 12:33:47] Uncaught Exception: Host 'localhost' is not allowed to connect to this MariaDB server in C:\xampp\htdocs\RBAC\config\db.php on line 7
+[2025-06-27 12:33:48] Uncaught Exception: Host 'localhost' is not allowed to connect to this MariaDB server in C:\xampp\htdocs\RBAC\config\db.php on line 7
+[2025-06-27 12:33:48] Uncaught Exception: Host 'localhost' is not allowed to connect to this MariaDB server in C:\xampp\htdocs\RBAC\config\db.php on line 7
+[2025-06-27 12:33:55] Uncaught Exception: Host 'localhost' is not allowed to connect to this MariaDB server in C:\xampp\htdocs\RBAC\config\db.php on line 7
+[2025-06-27 12:34:00] Uncaught Exception: Host 'localhost' is not allowed to connect to this MariaDB server in C:\xampp\htdocs\RBAC\config\db.php on line 7
+[2025-06-27 12:34:00] Uncaught Exception: Host 'localhost' is not allowed to connect to this MariaDB server in C:\xampp\htdocs\RBAC\config\db.php on line 7
+[2025-06-27 12:34:01] Uncaught Exception: Host 'localhost' is not allowed to connect to this MariaDB server in C:\xampp\htdocs\RBAC\config\db.php on line 7
+[2025-06-27 12:34:01] Uncaught Exception: Host 'localhost' is not allowed to connect to this MariaDB server in C:\xampp\htdocs\RBAC\config\db.php on line 7
+[2025-06-27 12:34:12] Uncaught Exception: Host 'localhost' is not allowed to connect to this MariaDB server in C:\xampp\htdocs\RBAC\config\db.php on line 7
+[2025-06-27 12:34:22] Uncaught Exception: Host 'localhost' is not allowed to connect to this MariaDB server in C:\xampp\htdocs\RBAC\config\db.php on line 7
+[2025-06-27 12:36:15] Uncaught Exception: Host 'localhost' is not allowed to connect to this MariaDB server in C:\xampp\htdocs\RBAC\config\db.php on line 7
+[2025-06-27 12:36:16] Uncaught Exception: Host 'localhost' is not allowed to connect to this MariaDB server in C:\xampp\htdocs\RBAC\config\db.php on line 7
+[2025-06-27 12:36:16] Uncaught Exception: Host 'localhost' is not allowed to connect to this MariaDB server in C:\xampp\htdocs\RBAC\config\db.php on line 7
+[2025-06-27 12:36:16] Uncaught Exception: Host 'localhost' is not allowed to connect to this MariaDB server in C:\xampp\htdocs\RBAC\config\db.php on line 7
+[2025-06-27 12:45:02] Uncaught Exception: No connection could be made because the target machine actively refused it in C:\xampp\htdocs\RBAC\config\db.php on line 7
+[2025-06-27 12:46:31] Uncaught Exception: Host 'localhost' is not allowed to connect to this MariaDB server in C:\xampp\htdocs\RBAC\config\db.php on line 7
+[2025-06-27 12:46:32] Uncaught Exception: Host 'localhost' is not allowed to connect to this MariaDB server in C:\xampp\htdocs\RBAC\config\db.php on line 7
+[2025-06-27 12:46:32] Uncaught Exception: Host 'localhost' is not allowed to connect to this MariaDB server in C:\xampp\htdocs\RBAC\config\db.php on line 7
+[2025-06-27 12:46:32] Uncaught Exception: Host 'localhost' is not allowed to connect to this MariaDB server in C:\xampp\htdocs\RBAC\config\db.php on line 7
+[2025-06-27 12:46:32] Uncaught Exception: Host 'localhost' is not allowed to connect to this MariaDB server in C:\xampp\htdocs\RBAC\config\db.php on line 7
+[2025-06-27 12:46:32] Uncaught Exception: Host 'localhost' is not allowed to connect to this MariaDB server in C:\xampp\htdocs\RBAC\config\db.php on line 7
+[2025-06-27 12:46:33] Uncaught Exception: Host 'localhost' is not allowed to connect to this MariaDB server in C:\xampp\htdocs\RBAC\config\db.php on line 7
+[2025-06-27 12:46:33] Uncaught Exception: Host 'localhost' is not allowed to connect to this MariaDB server in C:\xampp\htdocs\RBAC\config\db.php on line 7
+[2025-06-27 12:47:29] Uncaught Exception: Host 'localhost' is not allowed to connect to this MariaDB server in C:\xampp\htdocs\RBAC\config\db.php on line 7
+[2025-06-27 12:56:34] Uncaught Exception: No connection could be made because the target machine actively refused it in C:\xampp\htdocs\RBAC\config\db.php on line 7
+[2025-06-27 13:03:07] Uncaught Exception: Cannot delete or update a parent row: a foreign key constraint fails (`rbac_db`.`task_assignees`, CONSTRAINT `task_assignees_ibfk_1` FOREIGN KEY (`task_id`) REFERENCES `tasks` (`task_id`)) in C:\xampp\htdocs\RBAC\public\tasks.php on line 89
+[2025-06-27 13:03:10] Uncaught Exception: Cannot delete or update a parent row: a foreign key constraint fails (`rbac_db`.`task_assignees`, CONSTRAINT `task_assignees_ibfk_1` FOREIGN KEY (`task_id`) REFERENCES `tasks` (`task_id`)) in C:\xampp\htdocs\RBAC\public\tasks.php on line 89
+[2025-06-27 13:03:14] Uncaught Exception: Cannot delete or update a parent row: a foreign key constraint fails (`rbac_db`.`task_assignees`, CONSTRAINT `task_assignees_ibfk_1` FOREIGN KEY (`task_id`) REFERENCES `tasks` (`task_id`)) in C:\xampp\htdocs\RBAC\public\tasks.php on line 89
+[2025-06-27 13:03:18] Uncaught Exception: Cannot delete or update a parent row: a foreign key constraint fails (`rbac_db`.`task_assignees`, CONSTRAINT `task_assignees_ibfk_1` FOREIGN KEY (`task_id`) REFERENCES `tasks` (`task_id`)) in C:\xampp\htdocs\RBAC\public\tasks.php on line 89
+[2025-06-27 13:04:11] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-06-27 13:04:15] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-06-27 13:04:16] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-06-27 13:04:17] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-06-27 13:04:17] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-06-27 13:04:18] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-06-27 13:04:19] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-06-27 13:04:20] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-06-27 13:04:28] Uncaught Exception: Cannot delete or update a parent row: a foreign key constraint fails (`rbac_db`.`comments`, CONSTRAINT `comments_ibfk_1` FOREIGN KEY (`task_id`) REFERENCES `tasks` (`task_id`)) in C:\xampp\htdocs\RBAC\public\tasks.php on line 92
+[2025-06-27 13:04:30] Uncaught Exception: Cannot delete or update a parent row: a foreign key constraint fails (`rbac_db`.`comments`, CONSTRAINT `comments_ibfk_1` FOREIGN KEY (`task_id`) REFERENCES `tasks` (`task_id`)) in C:\xampp\htdocs\RBAC\public\tasks.php on line 92
+[2025-06-27 13:05:07] Uncaught Exception: Cannot delete or update a parent row: a foreign key constraint fails (`rbac_db`.`task_assignees`, CONSTRAINT `task_assignees_ibfk_1` FOREIGN KEY (`task_id`) REFERENCES `tasks` (`task_id`)) in C:\xampp\htdocs\RBAC\public\tasks.php on line 92
+[2025-06-27 13:05:10] Uncaught Exception: Cannot delete or update a parent row: a foreign key constraint fails (`rbac_db`.`task_assignees`, CONSTRAINT `task_assignees_ibfk_1` FOREIGN KEY (`task_id`) REFERENCES `tasks` (`task_id`)) in C:\xampp\htdocs\RBAC\public\tasks.php on line 92
+[2025-06-27 13:06:53] PHP Error [8] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\RBAC\includes\auth.php on line 2
+[2025-06-27 13:06:58] PHP Error [8] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\RBAC\includes\auth.php on line 2
+[2025-06-27 13:06:59] PHP Error [8] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\RBAC\includes\auth.php on line 2
+[2025-06-27 13:07:00] PHP Error [8] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\RBAC\includes\auth.php on line 2
+[2025-06-27 13:07:00] PHP Error [8] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\RBAC\includes\auth.php on line 2
+[2025-06-27 13:07:00] PHP Error [8] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\RBAC\includes\auth.php on line 2
+[2025-06-27 13:07:08] PHP Error [8] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\RBAC\includes\auth.php on line 2
+[2025-06-27 13:07:09] PHP Error [8] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\RBAC\includes\auth.php on line 2
+[2025-06-27 13:07:09] PHP Error [8] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\RBAC\includes\auth.php on line 2
+[2025-06-27 13:07:09] PHP Error [8] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\RBAC\includes\auth.php on line 2
+[2025-06-27 13:07:09] PHP Error [8] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\RBAC\includes\auth.php on line 2
+[2025-06-27 13:07:09] PHP Error [8] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\RBAC\includes\auth.php on line 2
+[2025-06-27 13:07:10] PHP Error [8] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\RBAC\includes\auth.php on line 2
+[2025-06-27 13:07:16] PHP Error [8] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\RBAC\includes\auth.php on line 2
+[2025-06-27 13:07:16] PHP Error [8] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\RBAC\includes\auth.php on line 2
+[2025-06-27 13:07:17] PHP Error [8] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\RBAC\includes\auth.php on line 2
+[2025-06-27 13:07:17] PHP Error [8] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\RBAC\includes\auth.php on line 2
+[2025-06-27 13:07:18] PHP Error [8] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\RBAC\includes\auth.php on line 2
+[2025-06-27 13:07:18] PHP Error [8] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\RBAC\includes\auth.php on line 2
+[2025-06-27 13:07:18] PHP Error [8] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\RBAC\includes\auth.php on line 2
+[2025-06-27 13:07:18] PHP Error [8] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\RBAC\includes\auth.php on line 2
+[2025-06-27 13:07:19] PHP Error [8] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\RBAC\includes\auth.php on line 2
+[2025-06-27 13:07:19] PHP Error [8] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\RBAC\includes\auth.php on line 2
+[2025-06-27 13:07:19] PHP Error [8] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\RBAC\includes\auth.php on line 2
+[2025-06-27 13:07:25] PHP Error [8] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\RBAC\includes\auth.php on line 2
+[2025-06-27 13:07:25] PHP Error [8] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\RBAC\includes\auth.php on line 2
+[2025-06-27 13:07:28] PHP Error [8] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\RBAC\includes\auth.php on line 2
+[2025-06-27 13:07:28] PHP Error [8] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\RBAC\includes\auth.php on line 2
+[2025-06-27 13:07:28] PHP Error [8] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\RBAC\includes\auth.php on line 2
+[2025-06-27 13:22:01] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-06-27 13:22:05] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-06-27 13:31:22] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-06-27 13:40:14] Uncaught Exception: Table 'rbac_db.task_assignee_status' doesn't exist in C:\xampp\htdocs\RBAC\public\tasks.php on line 306
+[2025-06-27 13:40:14] Uncaught Exception: Table 'rbac_db.task_assignee_status' doesn't exist in C:\xampp\htdocs\RBAC\public\tasks.php on line 306
+[2025-06-27 13:40:14] Uncaught Exception: Table 'rbac_db.task_assignee_status' doesn't exist in C:\xampp\htdocs\RBAC\public\tasks.php on line 306
+[2025-06-27 13:40:14] Uncaught Exception: Table 'rbac_db.task_assignee_status' doesn't exist in C:\xampp\htdocs\RBAC\public\tasks.php on line 306
+[2025-06-27 13:40:15] Uncaught Exception: Table 'rbac_db.task_assignee_status' doesn't exist in C:\xampp\htdocs\RBAC\public\tasks.php on line 306
+[2025-06-27 13:40:15] Uncaught Exception: Table 'rbac_db.task_assignee_status' doesn't exist in C:\xampp\htdocs\RBAC\public\tasks.php on line 306
+[2025-06-27 13:40:15] Uncaught Exception: Table 'rbac_db.task_assignee_status' doesn't exist in C:\xampp\htdocs\RBAC\public\tasks.php on line 306
+[2025-06-27 13:40:17] Uncaught Exception: Table 'rbac_db.task_assignee_status' doesn't exist in C:\xampp\htdocs\RBAC\public\tasks.php on line 306
+[2025-06-27 13:40:18] Uncaught Exception: Table 'rbac_db.task_assignee_status' doesn't exist in C:\xampp\htdocs\RBAC\public\tasks.php on line 306
+[2025-06-27 13:40:18] Uncaught Exception: Table 'rbac_db.task_assignee_status' doesn't exist in C:\xampp\htdocs\RBAC\public\tasks.php on line 306
+[2025-06-27 13:40:18] Uncaught Exception: Table 'rbac_db.task_assignee_status' doesn't exist in C:\xampp\htdocs\RBAC\public\tasks.php on line 306
+[2025-06-27 13:40:18] Uncaught Exception: Table 'rbac_db.task_assignee_status' doesn't exist in C:\xampp\htdocs\RBAC\public\tasks.php on line 306
+[2025-06-27 13:40:18] Uncaught Exception: Table 'rbac_db.task_assignee_status' doesn't exist in C:\xampp\htdocs\RBAC\public\tasks.php on line 306
+[2025-06-27 13:40:19] Uncaught Exception: Table 'rbac_db.task_assignee_status' doesn't exist in C:\xampp\htdocs\RBAC\public\tasks.php on line 306
+[2025-06-27 13:40:19] Uncaught Exception: Table 'rbac_db.task_assignee_status' doesn't exist in C:\xampp\htdocs\RBAC\public\tasks.php on line 306
+[2025-06-27 13:40:19] Uncaught Exception: Table 'rbac_db.task_assignee_status' doesn't exist in C:\xampp\htdocs\RBAC\public\tasks.php on line 306
+[2025-06-27 13:40:19] Uncaught Exception: Table 'rbac_db.task_assignee_status' doesn't exist in C:\xampp\htdocs\RBAC\public\tasks.php on line 306
+[2025-06-27 13:40:19] Uncaught Exception: Table 'rbac_db.task_assignee_status' doesn't exist in C:\xampp\htdocs\RBAC\public\tasks.php on line 306
+[2025-06-27 13:40:20] Uncaught Exception: Table 'rbac_db.task_assignee_status' doesn't exist in C:\xampp\htdocs\RBAC\public\tasks.php on line 306
+[2025-06-27 13:40:20] Uncaught Exception: Table 'rbac_db.task_assignee_status' doesn't exist in C:\xampp\htdocs\RBAC\public\tasks.php on line 306
+[2025-06-27 13:40:20] Uncaught Exception: Table 'rbac_db.task_assignee_status' doesn't exist in C:\xampp\htdocs\RBAC\public\tasks.php on line 306
+[2025-06-27 13:40:20] Uncaught Exception: Table 'rbac_db.task_assignee_status' doesn't exist in C:\xampp\htdocs\RBAC\public\tasks.php on line 306
+[2025-06-27 13:40:20] Uncaught Exception: Table 'rbac_db.task_assignee_status' doesn't exist in C:\xampp\htdocs\RBAC\public\tasks.php on line 306
+[2025-06-27 13:40:27] Uncaught Exception: Table 'rbac_db.task_assignee_status' doesn't exist in C:\xampp\htdocs\RBAC\public\tasks.php on line 306
+[2025-06-27 13:40:35] Uncaught Exception: Table 'rbac_db.task_assignee_status' doesn't exist in C:\xampp\htdocs\RBAC\public\tasks.php on line 306
+[2025-06-27 13:40:35] Uncaught Exception: Table 'rbac_db.task_assignee_status' doesn't exist in C:\xampp\htdocs\RBAC\public\tasks.php on line 306
+[2025-06-27 13:40:35] Uncaught Exception: Table 'rbac_db.task_assignee_status' doesn't exist in C:\xampp\htdocs\RBAC\public\tasks.php on line 306
+[2025-06-27 13:40:35] Uncaught Exception: Table 'rbac_db.task_assignee_status' doesn't exist in C:\xampp\htdocs\RBAC\public\tasks.php on line 306
+[2025-06-27 13:40:35] Uncaught Exception: Table 'rbac_db.task_assignee_status' doesn't exist in C:\xampp\htdocs\RBAC\public\tasks.php on line 306
+[2025-06-27 13:41:33] Uncaught Exception: Table 'rbac_db.task_assignee_status' doesn't exist in C:\xampp\htdocs\RBAC\public\tasks.php on line 306
+[2025-06-27 13:41:34] Uncaught Exception: Table 'rbac_db.task_assignee_status' doesn't exist in C:\xampp\htdocs\RBAC\public\tasks.php on line 306
+[2025-06-27 13:41:38] Uncaught Exception: Table 'rbac_db.task_assignee_status' doesn't exist in C:\xampp\htdocs\RBAC\public\tasks.php on line 306
+[2025-06-27 13:45:58] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-06-27 13:46:01] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-06-27 13:48:35] Uncaught Exception: Call to undefined function log_activity() in C:\xampp\htdocs\RBAC\public\tasks.php on line 143
+[2025-06-27 13:48:38] Uncaught Exception: Call to undefined function log_activity() in C:\xampp\htdocs\RBAC\public\tasks.php on line 143
+[2025-06-27 13:49:25] Uncaught Exception: Call to undefined function log_activity() in C:\xampp\htdocs\RBAC\public\tasks.php on line 143
+[2025-06-27 13:49:42] Uncaught Exception: Call to undefined function log_activity() in C:\xampp\htdocs\RBAC\public\tasks.php on line 143
+[2025-06-27 14:27:38] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-06-27 14:40:17] Uncaught Exception: Call to undefined function log_activity() in C:\xampp\htdocs\RBAC\public\user_management.php on line 92
+[2025-06-27 14:46:47] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-06-27 14:46:51] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-06-27 14:46:53] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-06-27 14:46:55] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-06-27 14:47:26] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-07-04 18:16:29] Uncaught Exception: Call to undefined function log_activity() in C:\xampp\htdocs\RBAC\public\user_management.php on line 66
+[2025-07-04 18:16:47] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-07-04 18:16:59] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-07-04 18:17:00] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-07-04 18:17:38] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-07-04 18:17:43] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-07-04 18:17:51] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-07-04 18:17:53] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-07-04 18:18:53] Uncaught Exception: Call to undefined function log_activity() in C:\xampp\htdocs\RBAC\public\user_management.php on line 92
+[2025-07-04 18:19:14] Uncaught Exception: Call to undefined function log_activity() in C:\xampp\htdocs\RBAC\public\user_management.php on line 66
+[2025-07-04 18:19:42] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-07-04 18:19:48] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-07-04 18:27:51] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-07-04 18:32:07] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-07-04 18:35:39] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-07-04 18:35:50] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-07-04 18:41:25] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-07-04 18:42:55] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-07-04 18:47:33] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-07-04 18:47:58] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-07-04 18:48:07] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-07-04 18:48:30] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-07-04 18:50:25] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-07-04 18:50:38] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-07-04 18:50:54] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-07-04 18:54:00] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-07-04 18:54:29] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-07-04 18:54:35] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-07-04 18:56:30] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-07-04 18:57:08] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-07-04 18:58:31] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-07-04 18:58:43] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-07-04 18:58:57] PHP Error [8192] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\RBAC\includes\tasks.php on line 40
+[2025-07-06 18:01:34] Uncaught Exception: MySQL server has gone away in C:\xampp\htdocs\RBAC\public\login.php on line 11
+[2025-07-06 18:11:52] PHP Error [8] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\RBAC\public\task_details.php on line 8
